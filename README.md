@@ -4,7 +4,7 @@ RetroFW Firmware releases - Current version: [RetroFW V1.1](https://github.com/r
 ## Supported IPK:
 
 ### Apps
-[GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk)
+* [GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk)
 
 ### Emulators
 * [dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) Atari 2600
