@@ -1,5 +1,15 @@
 # RetroFW
-RetroFW Firmware releases - Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/download/1.1/RetroFW_v1.1.zip)
+- Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/download/1.1/RetroFW_v1.1.zip)
+
+## Changelog
+
+- Rebuilt rootfs based on buildroot-2018.02.11
+- Add OGG support
+- Add Python + PyGame
+- Improved recovery mode
+    - Improved automatic SD card resizing
+    - Added file system check mode
+- Fix power off bug in Kernel
 
 ## Supported IPK:
 
