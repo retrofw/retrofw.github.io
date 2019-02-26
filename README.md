@@ -14,3 +14,4 @@ RetroFW Firmware releases - Current version: [RetroFW V1.1](https://github.com/r
 * [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) - Mega Drive / Sega CD / Master System / Game Gear
 * [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) Super NES
 * [regba](https://github.com/pingflood/ReGBA/releases/download/latest/regba.ipk) Game Boy Advance
+* [uae4all](https://github.com/pingflood/uae4all/releases/download/latest/uae4all.ipk) Amiga
