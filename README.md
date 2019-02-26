@@ -12,7 +12,18 @@ RetroFW Firmware releases - Current version: [RetroFW V1.1](https://github.com/r
 * [fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) FB Alpha - Arcade and Console - A320 version
 * [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) NES
 * [gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) Game Boy / Game Boy Color
+* [handy](https://gameblabla.nl/files/ipk/rs97/handy.ipk) Atari Lynx
+* [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all.ipk) Playstation (PSOne)
 * [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) - Mega Drive / Sega CD / Master System / Game Gear
 * [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) Super NES
 * [regba](https://github.com/pingflood/ReGBA/releases/download/latest/regba.ipk) Game Boy Advance
+* [scummvm](https://gameblabla.nl/files/ipk/rs97/scummvm.ipk) ScummVM
+* [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl.ipk) Master System / Game Gear
+* [temper](https://gameblabla.nl/files/ipk/rs97/temper.ipk) PC-Engine
 * [uae4all](https://github.com/pingflood/uae4all/releases/download/latest/uae4all.ipk) Amiga
+
+### Ports
+* [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye.ipk) l'Abbaye des Morts
+* [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball.ipk) The Enhanced OutRun Engine
+* [quake](https://gameblabla.nl/files/ipk/rs97/quake.ipk) Quake
+* [quake2](https://gameblabla.nl/files/ipk/rs97/quake2.ipk) Quake 2
