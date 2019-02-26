@@ -15,12 +15,12 @@ Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/dow
 ## Supported IPK:
 
 ### Apps
-| Link | Description |
+| Download | Description |
 | -----|-------------|
 | [GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk) | SDL Frontend and launcher |
 
 ### Emulators
-| Link | System |
+| Download | System |
 |------|--------|
 | [dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) | Atari 2600 |
 | [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX |
@@ -38,7 +38,7 @@ Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/dow
 | [uae4all](https://github.com/pingflood/uae4all/releases/download/latest/uae4all.ipk) | Amiga |
 
 ### Ports
-| Link | Name |
+| Download | Name |
 |------|------|
 | [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye.ipk) | l'Abbaye des Morts |
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball.ipk) | The Enhanced OutRun Engine |
