@@ -1,5 +1,6 @@
 # RetroFW
-- Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/download/1.1/RetroFW_v1.1.zip)
+
+Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/download/1.1/RetroFW_v1.1.zip)
 
 ## Changelog
 
