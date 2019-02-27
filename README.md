@@ -6,7 +6,8 @@ Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/dow
 
 - Rebuilt rootfs based on buildroot-2018.02.11
 - Add OGG support
-- Add Python + PyGame
+- exFAT support (experimental)
+- Add Python + PyGame libraries
 - Improved recovery mode
     - Improved automatic SD card resizing
     - Added file system check mode
