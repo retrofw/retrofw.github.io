@@ -26,7 +26,8 @@ Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/dow
 | [dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) | Atari 2600 |
 | [dingux-atari](https://github.com/pingflood/dingux-atari/releases/download/latest/dingux-atari.ipk) | Atari 800 |
 | [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX |
-| [fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | FB Alpha - Arcade and Console - A320 version
+| [fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | FB Alpha - Arcade and Console - A320 version |
+| [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version |
 | [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES |
 | [gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | Game Boy / Game Boy Color |
 | [handy](https://gameblabla.nl/files/ipk/rs97/handy.ipk) | Atari Lynx |
