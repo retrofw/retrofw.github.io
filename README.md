@@ -1,9 +1,13 @@
 # RetroFW
 
-Current version: [RetroFW V1.1](https://github.com/retrofw/firmware/releases/download/1.1/RetroFW_v1.1.zip)
+Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/download/1.2/RetroFW_v1.2.zip)
 
 ## Changelog
 
+### RetroFW V1.2
+- Fix boot lag due to bad behaved FAT32 partition in some uSD Cards
+
+### RetroFW V1.1
 - Rebuilt rootfs based on buildroot-2018.02.11
 - Add OGG support
 - exFAT support (experimental)
