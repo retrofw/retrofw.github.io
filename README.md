@@ -30,6 +30,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 ### Emulators
 | Download | System |
 |------|--------|
+| [colem](https://github.com/pingflood/colem/releases/download/latest/colem.ipk) | ColecoVision |
 | [dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) | Atari 2600 |
 | [dingux-atari](https://github.com/pingflood/dingux-atari/releases/download/latest/dingux-atari.ipk) | Atari 800 |
 | [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX |
