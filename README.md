@@ -54,7 +54,9 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 |------|------|
 | [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye.ipk) | l'Abbaye des Morts |
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball.ipk) | The Enhanced OutRun Engine |
+| [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan.ipk) | Ganbare-Natsukisan |
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux |
-
+| [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian.ipk) | Open Tyrian |
 | [quake](https://gameblabla.nl/files/ipk/rs97/quake.ipk) | Quake |
 | [quake2](https://gameblabla.nl/files/ipk/rs97/quake2.ipk) | Quake 2 |
+
