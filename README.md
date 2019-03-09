@@ -23,7 +23,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | Download | Description |
 | -----|-------------|
 | [GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk) | SDL frontend and launcher |
-| [PyMenu](https://github.com/JackD83/PyMenu/releases/download/v1.5.1/pymenu-1.5.1.ipk) | Python frontend and launcher |
+| [PyMenu](https://github.com/JackD83/PyMenu/releases/latest) | Python frontend and launcher |
 | [Commander](https://drive.google.com/open?id=1jX8oMS4MkHpvluSCbNxR7gvQuhpUEoXQ) | File manager  |
 | [Glutexto](https://drive.google.com/open?id=1BnNhRvfqMgaHoptp1YDiBeu64LkQ6wNz) | Text editor  |
 | [GPmark](https://github.com/pingflood/gpmark/releases/download/latest/gpmark.ipk) | Graphics benchmark |
