@@ -26,6 +26,13 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [PyMenu](https://github.com/JackD83/PyMenu/releases/latest) | Python frontend and launcher |
 | [Commander](https://drive.google.com/open?id=1jX8oMS4MkHpvluSCbNxR7gvQuhpUEoXQ) | File manager  |
 | [Glutexto](https://drive.google.com/open?id=1BnNhRvfqMgaHoptp1YDiBeu64LkQ6wNz) | Text editor  |
+
+### Tools
+| Download | Description |
+| -----|-------------|
+| [BattLog](https://github.com/pingflood/battlog/releases/download/initial/battlog.ipk) | Log battery discharge profile |
+| [IO Tester](https://github.com/pingflood/iotester/releases/download/initial/iotester.ipk) | Input/output tester for the RetroGame |
+| [PixMassage](https://github.com/pingflood/pixmassage/releases/download/initial/pixmassage.ipk) | Try to fix LCD stuck pixel |
 | [GPmark](https://github.com/pingflood/gpmark/releases/download/latest/gpmark.ipk) | Graphics benchmark |
 
 ### Emulators
