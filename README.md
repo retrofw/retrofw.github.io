@@ -67,4 +67,5 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian.ipk) | Open Tyrian |
 | [quake](https://gameblabla.nl/files/ipk/rs97/quake.ipk) | Quake |
 | [quake2](https://gameblabla.nl/files/ipk/rs97/quake2.ipk) | Quake 2 |
+| [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | Streets of Rage Remake |
 
