@@ -41,6 +41,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [colem](https://github.com/pingflood/colem/releases/download/latest/colem.ipk) | ColecoVision |
 | [dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) | Atari 2600 |
 | [dingux-atari](https://github.com/pingflood/dingux-atari/releases/download/latest/dingux-atari.ipk) | Atari 800 |
+| [dingux-cap32](https://github.com/pingflood/dingux-cap32/releases/download/latest/dingux-cap32.ipk) | Amstrad CPC |
 | [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX |
 | [dosbox](https://drive.google.com/open?id=12COhKfowmqfaqcui55VZCVz-zY_vvFxQ) | DOSBox - MS-DOS Emulator |
 | [fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | FB Alpha - Arcade and Console - A320 version |
