@@ -53,6 +53,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear
 | [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | Super NES |
 | [regba](https://github.com/pingflood/ReGBA/releases/download/latest/regba.ipk) | Game Boy Advance |
+| [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket |
 | [scummvm](https://gameblabla.nl/files/ipk/rs97/scummvm.ipk) | ScummVM |
 | [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl.ipk) | Master System / Game Gear |
 | [temper](https://gameblabla.nl/files/ipk/rs97/temper.ipk) | PC-Engine |
