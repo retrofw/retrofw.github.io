@@ -57,6 +57,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket |
 | [scummvm](https://gameblabla.nl/files/ipk/rs97/scummvm.ipk) | ScummVM |
 | [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl.ipk) | Master System / Game Gear |
+| [speccy](https://github.com/pingflood/speccy/releases/download/latest/speccy.ipk) | ZX Spectrum |
 | [temper](https://gameblabla.nl/files/ipk/rs97/temper.ipk) | PC-Engine |
 | [uae4all](https://github.com/pingflood/uae4all/releases/download/latest/uae4all.ipk) | Amiga |
 
