@@ -65,6 +65,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | Download | Name |
 |------|------|
 | [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye.ipk) | l'Abbaye des Morts |
+| [arkanoid](https://github.com/pingflood/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid |
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball.ipk) | The Enhanced OutRun Engine |
 | [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan.ipk) | Ganbare-Natsukisan |
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux |
