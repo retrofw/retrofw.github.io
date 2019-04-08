@@ -53,6 +53,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all.ipk) | Playstation (PSOne) |
 | [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear
 | [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | Super NES |
+| [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | Pokémini |
 | [prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | Atari 7800 |
 | [regba](https://github.com/pingflood/ReGBA/releases/download/latest/regba.ipk) | Game Boy Advance |
 | [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket |
