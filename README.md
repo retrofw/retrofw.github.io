@@ -49,6 +49,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES |
 | [gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | Game Boy / Game Boy Color |
 | [handy](https://gameblabla.nl/files/ipk/rs97/handy.ipk) | Atari Lynx |
+| [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision |
 | [oswan](https://gameblabla.nl/files/ipk/rs97/oswan.ipk) | WonderSwan |
 | [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all.ipk) | Playstation (PSOne) |
 | [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear
