@@ -50,6 +50,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | Game Boy / Game Boy Color |
 | [handy](https://gameblabla.nl/files/ipk/rs97/handy.ipk) | Atari Lynx |
 | [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision |
+| [mame4all](https://github.com/bopbopbopbop/mame4all-rs97/releases/) | MAME / Arcade |
 | [oswan](https://gameblabla.nl/files/ipk/rs97/oswan.ipk) | WonderSwan |
 | [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all.ipk) | Playstation (PSOne) |
 | [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear
@@ -78,5 +79,3 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [quake2](https://gameblabla.nl/files/ipk/rs97/quake2.ipk) | Quake 2 |
 | [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | Streets of Rage Remake |
 | [tileworld](https://github.com/pingflood/tileworld/releases/download/latest/tileworld.ipk) | Tile World |
-
-
