@@ -57,7 +57,6 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | Super NES |
 | [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | Pokémini |
 | [prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | Atari 7800 |
-| [regba](https://github.com/pingflood/ReGBA/releases/download/latest/regba.ipk) | Game Boy Advance |
 | [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket |
 | [scummvm](https://gameblabla.nl/files/ipk/rs97/scummvm.ipk) | ScummVM |
 | [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl.ipk) | Master System / Game Gear |
