@@ -48,33 +48,33 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version |
 | [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES |
 | [gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | Game Boy / Game Boy Color |
-| [handy](https://gameblabla.nl/files/ipk/rs97/handy.ipk) | Atari Lynx |
+| [handy](https://gameblabla.nl/files/ipk/rs97/handy_retrofw.ipk) | Atari Lynx |
 | [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision |
 | [mame4all](https://github.com/bopbopbopbop/mame4all-rs97/releases/) | MAME / Arcade |
-| [oswan](https://gameblabla.nl/files/ipk/rs97/oswan.ipk) | WonderSwan |
-| [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all.ipk) | Playstation (PSOne) |
+| [oswan](https://gameblabla.nl/files/ipk/rs97/oswan_retrofw.ipk) | WonderSwan |
+| [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all_retrofw.ipk) | Playstation (PSOne) |
 | [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear
 | [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | Super NES |
 | [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | Pokémini |
 | [prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | Atari 7800 |
 | [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket |
-| [scummvm](https://gameblabla.nl/files/ipk/rs97/scummvm.ipk) | ScummVM |
-| [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl.ipk) | Master System / Game Gear |
+| [scummvm](https://gameblabla.nl/files/ipk/rs97/scummvm_retrofw.ipk) | ScummVM |
+| [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl_retrofw.ipk) | Master System / Game Gear |
 | [speccy](https://github.com/pingflood/speccy/releases/download/latest/speccy.ipk) | ZX Spectrum |
-| [temper](https://gameblabla.nl/files/ipk/rs97/temper.ipk) | PC-Engine |
+| [temper](https://gameblabla.nl/files/ipk/rs97/temper_retrofw.ipk) | PC-Engine |
 | [uae4all](https://github.com/pingflood/uae4all/releases/download/latest/uae4all.ipk) | Amiga |
 
 ### Ports
 | Download | Name |
 |------|------|
-| [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye.ipk) | l'Abbaye des Morts |
+| [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye_retrofw.ipk) | l'Abbaye des Morts |
 | [arkanoid](https://github.com/pingflood/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid |
-| [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball.ipk) | The Enhanced OutRun Engine |
-| [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan.ipk) | Ganbare-Natsukisan |
+| [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | The Enhanced OutRun Engine |
+| [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | Ganbare-Natsukisan |
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux |
 | [kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | KOF Flames Of Courage |
-| [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian.ipk) | Open Tyrian |
-| [quake](https://gameblabla.nl/files/ipk/rs97/quake.ipk) | Quake |
-| [quake2](https://gameblabla.nl/files/ipk/rs97/quake2.ipk) | Quake 2 |
+| [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian_retrofw.ipk) | Open Tyrian |
+| [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake |
+| [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | Quake 2 |
 | [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | Streets of Rage Remake |
 | [tileworld](https://github.com/pingflood/tileworld/releases/download/latest/tileworld.ipk) | Tile World |
