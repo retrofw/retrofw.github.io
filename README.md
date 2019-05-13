@@ -52,6 +52,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [handy](https://gameblabla.nl/files/ipk/rs97/handy_retrofw.ipk) | Atari Lynx |
 | [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision |
 | [mame4all](https://github.com/bopbopbopbop/mame4all-rs97/releases/) | MAME / Arcade |
+| [openbor](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/openbor.ipk) | Open BOR |
 | [oswan](https://gameblabla.nl/files/ipk/rs97/oswan_retrofw.ipk) | WonderSwan |
 | [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all_retrofw.ipk) | Playstation (PSOne) |
 | [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear
@@ -59,7 +60,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | Pokémini |
 | [prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | Atari 7800 |
 | [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket |
-| [scummvm](https://gameblabla.nl/files/ipk/rs97/scummvm_retrofw.ipk) | ScummVM |
+| [scummvm](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/scummvm.ipk) | ScummVM |
 | [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl_retrofw.ipk) | Master System / Game Gear |
 | [speccy](https://github.com/pingflood/speccy/releases/download/latest/speccy.ipk) | ZX Spectrum |
 | [temper](https://gameblabla.nl/files/ipk/rs97/temper_retrofw.ipk) | PC-Engine |
