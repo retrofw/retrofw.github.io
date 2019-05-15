@@ -74,6 +74,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | The Enhanced OutRun Engine |
 | [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | Chocolate Doom |
 | [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | Ganbare-Natsukisan |
+| [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | Meritous |
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux |
 | [kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | KOF Flames Of Courage |
 | [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian_retrofw.ipk) | Open Tyrian |
