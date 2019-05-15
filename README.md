@@ -72,6 +72,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye_retrofw.ipk) | l'Abbaye des Morts |
 | [arkanoid](https://github.com/pingflood/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid |
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | The Enhanced OutRun Engine |
+| [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | Chocolate Doom |
 | [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | Ganbare-Natsukisan |
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux |
 | [kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | KOF Flames Of Courage |
