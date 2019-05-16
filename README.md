@@ -82,6 +82,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | [@jbanes](https://github.com/jbanes) | Mr Drillux |
 | [kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | [@steward-fu](https://github.com/steward-fu) | KOF Flames Of Courage |
 | [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Open Tyrian |
+| [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | [@pingflood](https://github.com/pingflood) | Pang |
 | [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Quake |
 | [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Quake 2 |
 | [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | [@steward-fu](https://github.com/steward-fu) | Streets of Rage Remake |
