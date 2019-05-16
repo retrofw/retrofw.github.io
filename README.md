@@ -70,7 +70,7 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | Download | Name |
 |------|------|
 | [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye_retrofw.ipk) | l'Abbaye des Morts |
-| [arkanoid](https://github.com/pingflood/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid |
+| [arkanoid](https://github.com/retrofw/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid |
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | The Enhanced OutRun Engine |
 | [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | Chocolate Doom |
 | [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | Ganbare-Natsukisan |
@@ -81,5 +81,5 @@ Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/dow
 | [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake |
 | [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | Quake 2 |
 | [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | Streets of Rage Remake |
-| [tileworld](https://github.com/pingflood/tileworld/releases/download/latest/tileworld.ipk) | Tile World |
+| [tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | Tile World |
 | [zelda_roth](https://github.com/retrofw/zelda_roth/releases/download/latest/zelda_roth.ipk) | The Legend of Zelda - Return of the Hylian |
