@@ -2,6 +2,10 @@
 
 Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/download/1.2/RetroFW_v1.2.zip)
 
+## How to install
+
+Check in our wiki [how to flash RetroFW to your device](https://github.com/retrofw/firmware/wiki/How-to-flash-RetroFW-to-your-device)
+
 ## Changelog
 
 ### RetroFW V1.2
