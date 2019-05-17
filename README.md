@@ -85,6 +85,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | [@pingflood](https://github.com/pingflood) | Pang |
 | [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Quake |
 | [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Quake 2 |
+| [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | [@pingflood](https://github.com/pingflood) | Rockbot |
 | [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | [@steward-fu](https://github.com/steward-fu) | Streets of Rage Remake |
 | [tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | [@pingflood](https://github.com/pingflood) | Tile World |
 | [zelda_roth](https://github.com/retrofw/zelda_roth/releases/download/latest/zelda_roth.ipk) | [@pingflood](https://github.com/pingflood) | The Legend of Zelda - Return of the Hylian |
