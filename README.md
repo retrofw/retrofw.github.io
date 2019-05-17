@@ -88,5 +88,5 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | [@pingflood](https://github.com/pingflood) | Rockbot |
 | [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | [@steward-fu](https://github.com/steward-fu) | Streets of Rage Remake |
 | [tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | [@pingflood](https://github.com/pingflood) | Tile World |
-| [wolf3d](https://github.com/retrofw/wolf3d/releases/download/latest/wolf3d.ipk) | [@pingflood](https://github.com/pingflood) | Wolfeinstein 3D |
+| [wolf3d](https://github.com/retrofw/wolf3d/releases/download/latest/wolf3d.ipk) | [@pingflood](https://github.com/pingflood) | Wolfenstein 3D |
 | [zelda_roth](https://github.com/retrofw/zelda_roth/releases/download/latest/zelda_roth.ipk) | [@pingflood](https://github.com/pingflood) | The Legend of Zelda - Return of the Hylian |
