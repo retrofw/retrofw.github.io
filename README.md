@@ -55,7 +55,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | [@hi-ban](https://github.com/hi-ban) | Game Boy / Game Boy Color |
 | [handy](https://gameblabla.nl/files/ipk/rs97/handy_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Atari Lynx |
 | [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | [@pingflood](https://github.com/pingflood) | Intellivision |
-| [mame4all](https://github.com/bopbopbopbop/mame4all-rs97/releases/) | [@bopbopbopbop](https://github.com/bopbopbopbop) | MAME / Arcade |
+| [mame4all](https://gitlab.com/bopbopbopbop/mame4all-rs97/tags/) | [@bopbopbopbop](https://gitlab.com/bopbopbopbop) | MAME / Arcade |
 | [openbor](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/openbor.ipk) | [@retromsx](https://github.com/retromsx) | Open BOR |
 | [oswan](https://gameblabla.nl/files/ipk/rs97/oswan_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | WonderSwan |
 | [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Playstation (PSOne) |
