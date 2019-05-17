@@ -33,7 +33,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 
 ### Tools
 | Download | Dev/Port by | Description |
-| -----|-------Z------|
+| -----|-------|------|
 | [BattLog](https://github.com/pingflood/battlog/releases/download/initial/battlog.ipk) | [@pingflood](https://github.com/pingflood) | Log battery discharge profile |
 | [IO Tester](https://github.com/pingflood/iotester/releases/download/initial/iotester.ipk) | [@pingflood](https://github.com/pingflood) | Input/output tester for the RetroGame |
 | [PixMassage](https://github.com/pingflood/pixmassage/releases/download/initial/pixmassage.ipk) | [@pingflood](https://github.com/pingflood) | Try to fix LCD stuck pixel |
