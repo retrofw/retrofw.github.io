@@ -78,6 +78,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | The Enhanced OutRun Engine |
 | [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Chocolate Doom |
 | [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Ganbare-Natsukisan |
+| [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | [@guangmingwan](https://github.com/guangmingwan) | Jin Yong Legend (Chinese game) |
 | [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | [@pingflood](https://github.com/pingflood) | Meritous |
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | [@jbanes](https://github.com/jbanes) | Mr Drillux |
 | [kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | [@steward-fu](https://github.com/steward-fu) | KOF Flames Of Courage |
