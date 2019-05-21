@@ -77,6 +77,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [arkanoid](https://github.com/retrofw/arkanoid/releases/download/latest/arkanoid.ipk) | [@pingflood](https://github.com/pingflood) | Arkanoid |
 | [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | The Enhanced OutRun Engine |
 | [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Chocolate Doom |
+| [eduke32](https://github.com/retrofw/eduke32/releases/download/latest/eduke32.ipk) | [@pingflood](https://github.com/pingflood) | Eduke32 (Duke Nukem 3D) |
 | [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Ganbare-Natsukisan |
 | [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | [@guangmingwan](https://github.com/guangmingwan) | Jin Yong Legend (Chinese game) |
 | [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | [@pingflood](https://github.com/pingflood) | Meritous |
