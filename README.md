@@ -79,6 +79,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Chocolate Doom |
 | [eduke32](https://github.com/retrofw/eduke32/releases/download/latest/eduke32.ipk) | [@pingflood](https://github.com/pingflood) | Eduke32 (Duke Nukem 3D) |
 | [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Ganbare-Natsukisan |
+| [hcl](https://github.com/retrofw/hydracastlelabyrinth/releases/download/latest/hcl.ipk) | [@pingflood](https://github.com/retrofw/hydracastlelabyrinth) | Hydra Castle Labyrinth |
 | [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | [@guangmingwan](https://github.com/guangmingwan) | Jin Yong Legend (Chinese game) |
 | [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | [@pingflood](https://github.com/pingflood) | Meritous |
 | [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | [@jbanes](https://github.com/jbanes) | Mr Drillux |
