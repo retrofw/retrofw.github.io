@@ -91,6 +91,7 @@ Check in our wiki [how to flash RetroFW to your device](https://github.com/retro
 | [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | [@pingflood](https://github.com/pingflood) | Rockbot |
 | [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | [@steward-fu](https://github.com/steward-fu) | Streets of Rage Remake |
 | [shifty](https://github.com/retrofw/shifty/releases/download/latest/shifty.ipk) | [@pingflood](https://github.com/pingflood) | Shifty-Pills |
+| [smw](https://github.com/retrofw/smw/releases/download/latest/smw.ipk) | [@pingflood](https://github.com/retrofw/smw) | Super Mario War |
 | [spout](https://github.com/retrofw/spout/releases/download/latest/spout.ipk) | [@pingflood](https://github.com/pingflood) | Spout |
 | [tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | [@pingflood](https://github.com/pingflood) | Tile World |
 | [wolf3d](https://github.com/retrofw/wolf3d/releases/download/latest/wolf3d.ipk) | [@pingflood](https://github.com/pingflood) | Wolfenstein 3D |
