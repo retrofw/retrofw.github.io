@@ -2,7 +2,7 @@
 
 > _RetroFW_ is the currently supported custom firmware for the RS-97 and LDK devices. It allows you to play a wide variety of consoles/computers thanks to numerous emulators available to it as well some ports of games.
 
-![image 1](https://i.imgur.com/ZEeYy6f.png)
+![retrofw](https://user-images.githubusercontent.com/348516/58355698-a3f68580-7e4b-11e9-9dff-ea1f795ed85c.png)
 
 [![Download](https://img.shields.io/github/release/retrofw/firmware.svg?label=Download%20RetroFW&color=brightgreen)](https://github.com/retrofw/firmware/releases)
 [![Stars](https://img.shields.io/github/stars/retrofw/firmware.svg?label=Project%20Stars)](https://github.com/retrofw/firmware/stargazers)
