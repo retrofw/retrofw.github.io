@@ -9,7 +9,7 @@
 
 # Setup & Info
 
-- Check the installation guide in our wiki [here](https://github.com/retrofw/firmware/wiki/Install)
+- Check the installation guide in our wiki [here](https://github.com/retrofw/firmware/wiki/Install-Firmware)
 - Check the version details history in our changelog [here](https://github.com/retrofw/firmware/blob/master/CHANGELOG.md)
 - Join our **Discord** chat server for more support [here](https://discord.gg/CX67MCH)
 
