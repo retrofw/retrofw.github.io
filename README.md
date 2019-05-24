@@ -1,98 +1,92 @@
 # RetroFW
 
-Current version: [RetroFW V1.2](https://github.com/retrofw/firmware/releases/download/1.2/RetroFW_v1.2.zip)
+> _RetroFW_ is the currently supported custom firmware for the RS-97 and LDK devices. It allows you to play a wide variety of consoles/computers thanks to numerous emulators available to it as well some ports of games.
 
-## How to install
+![image 1](https://i.imgur.com/ZEeYy6f.png)
 
-Check in our wiki [how to flash RetroFW to your device](https://github.com/retrofw/firmware/wiki/How-to-flash-RetroFW-to-your-device)
+[![Download](https://img.shields.io/github/release/retrofw/firmware.svg?label=Download%20RetroFW&color=brightgreen)](https://github.com/retrofw/firmware/releases)
+[![Stars](https://img.shields.io/github/stars/retrofw/firmware.svg?label=Project%20Stars)](https://github.com/retrofw/firmware/stargazers)
 
-## Changelog
+# Setup & Info
 
-### RetroFW V1.2
-- Fix boot lag due to bad behaved FAT32 partition in some uSD Cards
+- Check the installation guide in our wiki [here](https://github.com/retrofw/firmware/wiki/Install)
+- Check the version details history in our changelog [here](https://github.com/retrofw/firmware/blob/master/CHANGELOG.md)
+- Join our **Discord** chat server for more support [here](https://discord.gg/CX67MCH)
 
-### RetroFW V1.1
-- Rebuilt rootfs based on buildroot-2018.02.11
-- Add OGG support
-- exFAT support (experimental)
-- Add Python + PyGame libraries
-- Improved recovery mode
-    - Improved automatic SD card resizing
-    - Added file system check mode
-- Fix power off bug in Kernel
+# Resources
 
-## Supported IPK:
+The next list is all **IPK** _(Install Package)_ available for _RetroFW_ usage.
 
 ### Apps
-| Download | Dev/Port by | Description |
-| -----|------|-------|
-| [GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk) | [@pingflood](https://github.com/pingflood) | SDL frontend and launcher |
-| [PyMenu](https://github.com/JackD83/PyMenu/releases/latest) | [@JackD83](https://github.com/JackD83) | Python frontend and launcher |
-| [Commander](https://drive.google.com/open?id=1jX8oMS4MkHpvluSCbNxR7gvQuhpUEoXQ) | [@jbanes](https://github.com/jbanes) | File manager  |
-| [Glutexto](https://drive.google.com/open?id=1BnNhRvfqMgaHoptp1YDiBeu64LkQ6wNz) | [@jbanes](https://github.com/jbanes) | Text editor  |
+Download | Description | Dev / Port by
+:------:|:------|:------:
+[GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk) | SDL frontend and launcher | [@pingflood](https://github.com/pingflood)
+[PyMenu](https://github.com/JackD83/PyMenu/releases/latest) | Python frontend and launcher | [@JackD83](https://github.com/JackD83)
+[Commander](https://drive.google.com/open?id=1jX8oMS4MkHpvluSCbNxR7gvQuhpUEoXQ) | File manager | [@jbanes](https://github.com/jbanes) 
+[Glutexto](https://drive.google.com/open?id=1BnNhRvfqMgaHoptp1YDiBeu64LkQ6wNz) | Text editor  | [@jbanes](https://github.com/jbanes) 
 
 ### Tools
-| Download | Dev/Port by | Description |
-| -----|-------|------|
-| [BattLog](https://github.com/pingflood/battlog/releases/download/initial/battlog.ipk) | [@pingflood](https://github.com/pingflood) | Log battery discharge profile |
-| [IO Tester](https://github.com/pingflood/iotester/releases/download/initial/iotester.ipk) | [@pingflood](https://github.com/pingflood) | Input/output tester for the RetroGame |
-| [PixMassage](https://github.com/pingflood/pixmassage/releases/download/initial/pixmassage.ipk) | [@pingflood](https://github.com/pingflood) | Try to fix LCD stuck pixel |
-| [GPmark](https://github.com/pingflood/gpmark/releases/download/latest/gpmark.ipk) | [@pingflood](https://github.com/pingflood) | Graphics benchmark |
+Download | Description | Dev / Port by
+:------:|:------|:------:
+[BattLog](https://github.com/pingflood/battlog/releases/download/initial/battlog.ipk) | Log battery discharge profile | [@pingflood](https://github.com/pingflood)
+[IO Tester](https://github.com/pingflood/iotester/releases/download/initial/iotester.ipk) | Input/output tester for the RetroGame | [@pingflood](https://github.com/pingflood)
+[PixMassage](https://github.com/pingflood/pixmassage/releases/download/initial/pixmassage.ipk) | Try to fix LCD stuck pixel | [@pingflood](https://github.com/pingflood)
+[GPmark](https://github.com/pingflood/gpmark/releases/download/latest/gpmark.ipk) | Graphics benchmark | [@pingflood](https://github.com/pingflood)
 
 ### Emulators
-| Download | Dev/Port by | System |
-|------|----|----|
-| [colem](https://github.com/pingflood/colem/releases/download/latest/colem.ipk) | [@pingflood](https://github.com/pingflood) | ColecoVision |
-| [dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) | [@pingflood](https://github.com/pingflood) | Atari 2600 |
-| [dingux-atari](https://github.com/pingflood/dingux-atari/releases/download/latest/dingux-atari.ipk) | [@pingflood](https://github.com/pingflood) | Atari 800 |
-| [dingux-cap32](https://github.com/pingflood/dingux-cap32/releases/download/latest/dingux-cap32.ipk) | [@pingflood](https://github.com/pingflood) | Amstrad CPC |
-| [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | [@pingflood](https://github.com/pingflood) | MSX |
-| [dosbox](https://drive.google.com/open?id=12COhKfowmqfaqcui55VZCVz-zY_vvFxQ) | [@jbanes](https://github.com/jbanes) | DOSBox - MS-DOS Emulator |
-| [fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | [@pingflood](https://github.com/pingflood) | FB Alpha - Arcade and Console - A320 version |
-| [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | [@pingflood](https://github.com/pingflood) | FB Alpha - Arcade and Console - GCW0 version |
-| [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) |[@pingflood](https://github.com/pingflood) |  NES |
-| [gpsp](https://github.com/pingflood/gpsp/releases/download/latest/gpsp.ipk) | [@pingflood](https://github.com/pingflood) | Game Boy Advance |
-| [gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | [@hi-ban](https://github.com/hi-ban) | Game Boy / Game Boy Color |
-| [handy](https://gameblabla.nl/files/ipk/rs97/handy_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Atari Lynx |
-| [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | [@pingflood](https://github.com/pingflood) | Intellivision |
-| [mame4all](https://gitlab.com/bopbopbopbop/mame4all-rs97/tags/) | [@bopbopbopbop](https://gitlab.com/bopbopbopbop) | MAME / Arcade |
-| [openbor](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/openbor.ipk) | [@retromsx](https://github.com/retromsx) | Open BOR |
-| [oswan](https://gameblabla.nl/files/ipk/rs97/oswan_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | WonderSwan |
-| [pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Playstation (PSOne) |
-| [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | [@pingflood](https://github.com/pingflood) | Mega Drive / Sega CD / Master System / Game Gear
-| [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | [@pingflood](https://github.com/pingflood) | Super NES |
-| [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | [@pingflood](https://github.com/pingflood) | Pokémini |
-| [prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | [@pingflood](https://github.com/pingflood) | Atari 7800 |
-| [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | [@pingflood](https://github.com/pingflood) | Neo Geo Pocket |
-| [scummvm](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/scummvm.ipk) | [@retromsx](https://github.com/retromsx) | ScummVM |
-| [sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Master System / Game Gear |
-| [speccy](https://github.com/pingflood/speccy/releases/download/latest/speccy.ipk) | [@pingflood](https://github.com/pingflood) | ZX Spectrum |
-| [temper](https://gameblabla.nl/files/ipk/rs97/temper_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | PC-Engine |
-| [uae4all](https://github.com/pingflood/uae4all/releases/download/latest/uae4all.ipk) | [@pingflood](https://github.com/pingflood) | Amiga |
+Download | System | Dev / Port by
+:------:|:------|:------:
+[colem](https://github.com/pingflood/colem/releases/download/latest/colem.ipk) | ColecoVision | [@pingflood](https://github.com/pingflood) 
+[dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) | Atari 2600 | [@pingflood](https://github.com/pingflood) 
+[dingux-atari](https://github.com/pingflood/dingux-atari/releases/download/latest/dingux-atari.ipk) | Atari 800 | [@pingflood](https://github.com/pingflood) 
+[dingux-cap32](https://github.com/pingflood/dingux-cap32/releases/download/latest/dingux-cap32.ipk) | Amstrad CPC | [@pingflood](https://github.com/pingflood) 
+[dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX | [@pingflood](https://github.com/pingflood) 
+[dosbox](https://drive.google.com/open?id=12COhKfowmqfaqcui55VZCVz-zY_vvFxQ) | DOSBox - MS-DOS Emulator | [@jbanes](https://github.com/jbanes) 
+[fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | FB Alpha - Arcade and Console - A320 version | [@pingflood](https://github.com/pingflood) 
+[fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version | [@pingflood](https://github.com/pingflood)
+[fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES | [@pingflood](https://github.com/pingflood) 
+[gpsp](https://github.com/pingflood/gpsp/releases/download/latest/gpsp.ipk) | Game Boy Advance | [@pingflood](https://github.com/pingflood) 
+[gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | Game Boy / Game Boy Color | [@hi-ban](https://github.com/hi-ban) 
+[handy](https://gameblabla.nl/files/ipk/rs97/handy_retrofw.ipk) | Atari Lynx | [@gameblabla](https://github.com/gameblabla) 
+[jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision | [@pingflood](https://github.com/pingflood) 
+[mame4all](https://gitlab.com/bopbopbopbop/mame4all-rs97/tags/) | MAME / Arcade | [@bopbopbopbop](https://gitlab.com/bopbopbopbop) 
+[openbor](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/openbor.ipk) | Open BOR | [@retromsx](https://github.com/retromsx) 
+[oswan](https://gameblabla.nl/files/ipk/rs97/oswan_retrofw.ipk) | WonderSwan | [@gameblabla](https://github.com/gameblabla) 
+[pcsx4all](https://gameblabla.nl/files/ipk/rs97/pcsx4all_retrofw.ipk) | Playstation (PSOne) | [@gameblabla](https://github.com/gameblabla) 
+[picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear | [@pingflood](https://github.com/pingflood) 
+[pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | Super NES | [@pingflood](https://github.com/pingflood) 
+[pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | PokéMini | [@pingflood](https://github.com/pingflood) 
+[prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | Atari 7800 | [@pingflood](https://github.com/pingflood) 
+[race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket | [@pingflood](https://github.com/pingflood) 
+[scummvm](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/scummvm.ipk) | ScummVM | [@retromsx](https://github.com/retromsx) 
+[sms_sdl](https://gameblabla.nl/files/ipk/rs97/sms_sdl_retrofw.ipk) | Master System / Game Gear | [@gameblabla](https://github.com/gameblabla) 
+[speccy](https://github.com/pingflood/speccy/releases/download/latest/speccy.ipk) | ZX Spectrum | [@pingflood](https://github.com/pingflood) 
+[temper](https://gameblabla.nl/files/ipk/rs97/temper_retrofw.ipk) | PC-Engine | [@gameblabla](https://github.com/gameblabla) 
+[uae4all](https://github.com/pingflood/uae4all/releases/download/latest/uae4all.ipk) | Amiga | [@pingflood](https://github.com/pingflood) 
 
 ### Ports
-| Download | Dev/Port by | Name |
-|------|----|----|
-| [abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | l'Abbaye des Morts |
-| [arkanoid](https://github.com/retrofw/arkanoid/releases/download/latest/arkanoid.ipk) | [@pingflood](https://github.com/pingflood) | Arkanoid |
-| [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | The Enhanced OutRun Engine |
-| [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Chocolate Doom |
-| [eduke32](https://github.com/retrofw/eduke32/releases/download/latest/eduke32.ipk) | [@pingflood](https://github.com/pingflood) | Eduke32 (Duke Nukem 3D) |
-| [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Ganbare-Natsukisan |
-| [hcl](https://github.com/retrofw/hydracastlelabyrinth/releases/download/latest/hcl.ipk) | [@pingflood](https://github.com/retrofw/hydracastlelabyrinth) | Hydra Castle Labyrinth |
-| [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | [@guangmingwan](https://github.com/guangmingwan) | Jin Yong Legend (Chinese game) |
-| [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | [@pingflood](https://github.com/pingflood) | Meritous |
-| [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | [@jbanes](https://github.com/jbanes) | Mr Drillux |
-| [kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | [@steward-fu](https://github.com/steward-fu) | KOF Flames Of Courage |
-| [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Open Tyrian |
-| [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | [@pingflood](https://github.com/pingflood) | Pang |
-| [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Quake |
-| [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | [@gameblabla](https://github.com/gameblabla) | Quake 2 |
-| [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | [@pingflood](https://github.com/pingflood) | Rockbot |
-| [sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | [@steward-fu](https://github.com/steward-fu) | Streets of Rage Remake |
-| [shifty](https://github.com/retrofw/shifty/releases/download/latest/shifty.ipk) | [@pingflood](https://github.com/pingflood) | Shifty-Pills |
-| [smw](https://github.com/retrofw/smw/releases/download/latest/smw.ipk) | [@pingflood](https://github.com/retrofw/smw) | Super Mario War |
-| [spout](https://github.com/retrofw/spout/releases/download/latest/spout.ipk) | [@pingflood](https://github.com/pingflood) | Spout |
-| [tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | [@pingflood](https://github.com/pingflood) | Tile World |
-| [wolf3d](https://github.com/retrofw/wolf3d/releases/download/latest/wolf3d.ipk) | [@pingflood](https://github.com/pingflood) | Wolfenstein 3D |
-| [zelda_roth](https://github.com/retrofw/zelda_roth/releases/download/latest/zelda_roth.ipk) | [@pingflood](https://github.com/pingflood) | The Legend of Zelda - Return of the Hylian |
+Download | Title | Dev / Port by
+:------:|:------|:------:
+[abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye_retrofw.ipk) | l'Abbaye des Morts | [@gameblabla](https://github.com/gameblabla) 
+[arkanoid](https://github.com/retrofw/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid | [@pingflood](https://github.com/pingflood) 
+[cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | The Enhanced OutRun Engine | [@gameblabla](https://github.com/gameblabla) 
+[chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | Chocolate Doom | [@gameblabla](https://github.com/gameblabla) 
+[eduke32](https://github.com/retrofw/eduke32/releases/download/latest/eduke32.ipk) | Eduke32 (Duke Nukem 3D) | [@pingflood](https://github.com/pingflood) 
+[ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | Ganbare-Natsukisan | [@gameblabla](https://github.com/gameblabla) 
+[hcl](https://github.com/retrofw/hydracastlelabyrinth/releases/download/latest/hcl.ipk) | Hydra Castle Labyrinth | [@pingflood](https://github.com/retrofw/hydracastlelabyrinth) 
+[jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | Jin Yong Legend (Chinese game) | [@guangmingwan](https://github.com/guangmingwan) 
+[meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | Meritous | [@pingflood](https://github.com/pingflood) 
+[mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux | [@jbanes](https://github.com/jbanes) 
+[kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | KOF Flames Of Courage | [@steward-fu](https://github.com/steward-fu) 
+[opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian_retrofw.ipk) | Open Tyrian | [@gameblabla](https://github.com/gameblabla) 
+[pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | Pang | [@pingflood](https://github.com/pingflood) 
+[quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
+[quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | Quake 2 | [@gameblabla](https://github.com/gameblabla) 
+[rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | Rockbot | [@pingflood](https://github.com/pingflood) 
+[sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | Streets of Rage Remake | [@steward-fu](https://github.com/steward-fu) 
+[shifty](https://github.com/retrofw/shifty/releases/download/latest/shifty.ipk) | Shifty-Pills | [@pingflood](https://github.com/pingflood) 
+[smw](https://github.com/retrofw/smw/releases/download/latest/smw.ipk) | Super Mario War | [@pingflood](https://github.com/retrofw/smw) 
+[spout](https://github.com/retrofw/spout/releases/download/latest/spout.ipk) | Spout | [@pingflood](https://github.com/pingflood) 
+[tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | Tile World | [@pingflood](https://github.com/pingflood) 
+[wolf3d](https://github.com/retrofw/wolf3d/releases/download/latest/wolf3d.ipk) | Wolfenstein 3D | [@pingflood](https://github.com/pingflood) 
+[zelda_roth](https://github.com/retrofw/zelda_roth/releases/download/latest/zelda_roth.ipk) | The Legend of Zelda - Return of the Hylian | [@pingflood](https://github.com/pingflood) 
