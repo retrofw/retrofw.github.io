@@ -77,7 +77,7 @@ Download | Title | Dev / Port by
 [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | Jin Yong Legend (Chinese game) | [@guangmingwan](https://github.com/guangmingwan) 
 [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | Meritous | [@pingflood](https://github.com/pingflood) 
 [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux | [@jbanes](https://github.com/jbanes) 
-[kof](https://drive.google.com/open?id=1zT4OWVyFm6nHuLMNhkn2GqkdHGe5iaSV) | KOF Flames Of Courage | [@steward-fu](https://github.com/steward-fu) 
+[kof](https://github.com/retrofw/bennugd/releases/download/kof/kof.ipk) | KOF Flames Of Courage | [@steward-fu](https://github.com/retrofw/bennugd) 
 [opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian_retrofw.ipk) | Open Tyrian | [@gameblabla](https://github.com/gameblabla) 
 [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | Pang | [@pingflood](https://github.com/pingflood) 
 [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
