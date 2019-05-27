@@ -83,7 +83,7 @@ Download | Title | Dev / Port by
 [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
 [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | Quake 2 | [@gameblabla](https://github.com/gameblabla) 
 [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | Rockbot | [@pingflood](https://github.com/pingflood) 
-[sorr](https://drive.google.com/open?id=1hRjgWnNPM4zRAGVRHUn6-J93Idd7dWOj) | Streets of Rage Remake | [@steward-fu](https://github.com/steward-fu) 
+[sorr](https://github.com/retrofw/bennugd/releases/tag/sorr) | Streets of Rage Remake | [@steward-fu](https://github.com/retrofw/bennugd) 
 [shifty](https://github.com/retrofw/shifty/releases/download/latest/shifty.ipk) | Shifty-Pills | [@pingflood](https://github.com/pingflood) 
 [smw](https://github.com/retrofw/smw/releases/download/latest/smw.ipk) | Super Mario War | [@pingflood](https://github.com/retrofw/smw) 
 [spout](https://github.com/retrofw/spout/releases/download/latest/spout.ipk) | Spout | [@pingflood](https://github.com/pingflood) 
