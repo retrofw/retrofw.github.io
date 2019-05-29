@@ -78,7 +78,7 @@ Download | Title | Dev / Port by
 [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | Meritous | [@pingflood](https://github.com/retrofw/meritous) 
 [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux | [@jbanes](https://github.com/jbanes) 
 [kof](https://github.com/retrofw/bennugd/releases/download/kof/kof.ipk) | KOF Flames Of Courage | [@steward-fu](https://github.com/retrofw/bennugd) 
-[opentyrian](https://gameblabla.nl/files/ipk/rs97/opentyrian_retrofw.ipk) | Open Tyrian | [@gameblabla](https://github.com/gameblabla) 
+[opentyrian](https://github.com/retrofw/opentyrian/releases/download/latest/opentyrian.ipk) | Open Tyrian | [@gameblabla](https://github.com/gameblabla) 
 [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | Pang | [@pingflood](https://github.com/retrofw/pang) 
 [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
 [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | Quake 2 | [@gameblabla](https://github.com/gameblabla) 
