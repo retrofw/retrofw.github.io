@@ -75,6 +75,7 @@ Download | Title | Dev / Port by
 [eduke32](https://github.com/retrofw/eduke32/releases/download/latest/eduke32.ipk) | Eduke32 (Duke Nukem 3D) | [@pingflood](https://github.com/retrofw/eduke32) 
 [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | Ganbare-Natsukisan | [@gameblabla](https://github.com/gameblabla) 
 [hcl](https://github.com/retrofw/hydracastlelabyrinth/releases/download/latest/hcl.ipk) | Hydra Castle Labyrinth | [@pingflood](https://github.com/retrofw/hydracastlelabyrinth) 
+[homingfever](https://github.com/retrofw/homingfever/releases/download/latest/homingfever.ipk) | Homing Fever | [@pingflood](https://github.com/retrofw/retrofw/homingfever) 
 [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | Jin Yong Legend (Chinese game) | [@guangmingwan](https://github.com/guangmingwan/rs97-jy) 
 [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | Meritous | [@pingflood](https://github.com/retrofw/meritous) 
 [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux | [@jbanes](https://github.com/jbanes) 
