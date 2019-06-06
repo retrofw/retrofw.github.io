@@ -77,6 +77,7 @@ Download | Title | Dev / Port by
 [hcl](https://github.com/retrofw/hydracastlelabyrinth/releases/download/latest/hcl.ipk) | Hydra Castle Labyrinth | [@pingflood](https://github.com/retrofw/hydracastlelabyrinth) 
 [homingfever](https://github.com/retrofw/homingfever/releases/download/latest/homingfever.ipk) | Homing Fever | [@pingflood](https://github.com/retrofw/retrofw/homingfever) 
 [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | Jin Yong Legend (Chinese game) | [@guangmingwan](https://github.com/guangmingwan/rs97-jy) 
+[liero](https://github.com/pingflood/liero/releases/download/latest/liero.ipk) | Liero | [@pingflood](https://github.com/pingflood/liero) 
 [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | Meritous | [@pingflood](https://github.com/retrofw/meritous) 
 [mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux | [@jbanes](https://github.com/jbanes) 
 [kof](https://github.com/retrofw/bennugd/releases/download/kof/kof.ipk) | KOF Flames Of Courage | [@steward-fu](https://github.com/retrofw/bennugd) 
