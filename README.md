@@ -71,6 +71,7 @@ Download | Title | Dev / Port by
 [apricots](https://github.com/retrofw/apricots/releases/download/latest/apricots.ipk) | Apricots | [@pingflood](https://github.com/retrofw/apricots) 
 [arkanoid](https://github.com/retrofw/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid | [@pingflood](https://github.com/retrofw/arkanoid) 
 [cannonball](https://gameblabla.nl/files/ipk/rs97/cannonball_retrofw.ipk) | The Enhanced OutRun Engine | [@gameblabla](https://github.com/gameblabla) 
+[cavestory](https://github.com/retrofw/cavestory/releases/download/latest/cavestory.ipk) | Cave Story | [@pingflood](https://github.com/retrofw/cavestory)
 [chocolate-doom](https://gameblabla.nl/files/ipk/rs97/chocolate-doom_retrofw.ipk) | Chocolate Doom | [@gameblabla](https://github.com/gameblabla) 
 [eduke32](https://github.com/retrofw/eduke32/releases/download/latest/eduke32.ipk) | Eduke32 (Duke Nukem 3D) | [@pingflood](https://github.com/retrofw/eduke32) 
 [ganbare](https://gameblabla.nl/files/ipk/rs97/Ganbare-Natsukisan_retrofw.ipk) | Ganbare-Natsukisan | [@gameblabla](https://github.com/gameblabla) 
