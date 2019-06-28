@@ -1,6 +1,6 @@
 # RetroFW
 
-> _RetroFW_ is the currently supported custom firmware for the RS-97 and LDK devices. It allows you to play a wide variety of consoles/computers thanks to numerous emulators available to it as well some ports of games.
+> _RetroFW_ is the currently supported custom firmware for the Retro Game and LDK devices. It allows you to play a wide variety of consoles/computers thanks to numerous emulators available to it as well some ports of games.
 
 ![retrofw](https://user-images.githubusercontent.com/348516/58355698-a3f68580-7e4b-11e9-9dff-ea1f795ed85c.png)
 
