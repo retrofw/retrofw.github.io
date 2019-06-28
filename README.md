@@ -85,6 +85,7 @@ Download | Title | Dev / Port by
 [kof](https://github.com/retrofw/bennugd/releases/download/kof/kof.ipk) | KOF Flames Of Courage | [@steward-fu](https://github.com/retrofw/bennugd) 
 [opentyrian](https://github.com/retrofw/opentyrian/releases/download/latest/opentyrian.ipk) | Open Tyrian | [@gameblabla](https://github.com/gameblabla) 
 [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | Pang | [@pingflood](https://github.com/retrofw/pang) 
+[profanation](https://github.com/retrofw/profanation/releases/download/latest/profanation.ipk) | Profanation Deluxe | [@pingflood](https://github.com/retrofw/profanation)
 [quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
 [quake2](https://gameblabla.nl/files/ipk/rs97/quake2_retrofw.ipk) | Quake 2 | [@gameblabla](https://github.com/gameblabla) 
 [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | Rockbot | [@pingflood](https://github.com/retrofw/rockbot) 
