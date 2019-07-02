@@ -97,5 +97,5 @@ Download | Title | Dev / Port by
 [srb2](https://github.com/retrofw/srb2/releases/download/latest/srb2.ipk) | Sonic Robo Blast 2 | [@pingflood](https://github.com/retrofw/srb2/releases)
 [stransball2](https://github.com/retrofw/stransball2/releases/download/latest/stransball2.ipk) | Super Transball 2 | [@pingflood](https://github.com/retrofw/stransball2)
 [tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | Tile World | [@pingflood](https://github.com/retrofw/tileworld) 
-[wolf3d](https://github.com/scooterpsu/wolf3d/releases) | Wolfenstein 3D | [@scooterpsu](https://github.com/scooterpsu/wolf3d) 
+[wolf3d](https://github.com/scooterpsu/wolf3d/releases) | Wolfenstein 3D and Spear of Destiny | [@scooterpsu](https://github.com/scooterpsu/wolf3d) 
 [zelda_roth](https://github.com/retrofw/zelda_roth/releases/download/latest/zelda_roth.ipk) | The Legend of Zelda - Return of the Hylian | [@pingflood](https://github.com/retrofw/zelda_roth) 
