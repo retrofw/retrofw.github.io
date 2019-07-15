@@ -24,6 +24,7 @@ Download | Description | Dev / Port by
 [PyMenu](https://github.com/JackD83/PyMenu/releases/latest) | Python frontend and launcher | [@JackD83](https://github.com/JackD83)
 [Commander](https://drive.google.com/open?id=1jX8oMS4MkHpvluSCbNxR7gvQuhpUEoXQ) | File manager | [@jbanes](https://github.com/jbanes) 
 [Glutexto](https://drive.google.com/open?id=1BnNhRvfqMgaHoptp1YDiBeu64LkQ6wNz) | Text editor | [@jbanes](https://github.com/jbanes) 
+[gnash](https://github.com/retrofw/gnash/releases/download/latest/gnash.ipk) | Gnash | [@gameblabla](https://github.com/gameblabla) 
 [lgpt](https://github.com/retrofw/lgpt/releases/download/latest/lgpt.ipk) | LittleGPTracker | [@gameblabla](https://github.com/gameblabla) 
 
 ### Tools
@@ -64,6 +65,7 @@ Download | System | Dev / Port by
 [speccy](https://github.com/pingflood/speccy/releases/download/latest/speccy.ipk) | ZX Spectrum | [@pingflood](https://github.com/pingflood/speccy) 
 [temper](https://github.com/retrofw/temper/releases/download/latest/temper.ipk) | PC-Engine | [@gameblabla](https://github.com/gameblabla) 
 [uae4all](https://github.com/retrofw/uae4all/releases/download/latest/uae4all.ipk) | Amiga | [@pingflood](https://github.com/retrofw/uae4all) 
+[vice](https://github.com/retrofw/vice/releases/download/latest/vice.ipk) | Commodore 64 | [@gameblabla](https://github.com/gameblabla) 
 
 ### Ports
 Download | Title | Dev / Port by
