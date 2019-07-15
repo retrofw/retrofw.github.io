@@ -22,8 +22,8 @@ Download | Description | Dev / Port by
 :------:|:------|:------:
 [GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk) | SDL frontend and launcher | [@pingflood](https://github.com/pingflood)
 [PyMenu](https://github.com/JackD83/PyMenu/releases/latest) | Python frontend and launcher | [@JackD83](https://github.com/JackD83)
-[Commander](https://drive.google.com/open?id=1jX8oMS4MkHpvluSCbNxR7gvQuhpUEoXQ) | File manager | [@jbanes](https://github.com/jbanes) 
-[Glutexto](https://drive.google.com/open?id=1BnNhRvfqMgaHoptp1YDiBeu64LkQ6wNz) | Text editor | [@jbanes](https://github.com/jbanes) 
+[Commander](https://github.com/retrofw/dinguxcommander/releases/download/latest/commander.ipk) | File manager | [@jbanes](https://github.com/jbanes) 
+[Glutexto](https://github.com/retrofw/glutexto/releases/download/latest/glutexto.ipk) | Text editor | [@jbanes](https://github.com/jbanes) 
 [gnash](https://github.com/retrofw/gnash/releases/download/latest/gnash.ipk) | Gnash | [@gameblabla](https://github.com/gameblabla) 
 [lgpt](https://github.com/retrofw/lgpt/releases/download/latest/lgpt.ipk) | LittleGPTracker | [@gameblabla](https://github.com/gameblabla) 
 
@@ -43,7 +43,7 @@ Download | System | Dev / Port by
 [dingux-atari](https://github.com/pingflood/dingux-atari/releases/download/latest/dingux-atari.ipk) | Atari 800 | [@pingflood](https://github.com/pingflood) 
 [dingux-cap32](https://github.com/pingflood/dingux-cap32/releases/download/latest/dingux-cap32.ipk) | Amstrad CPC | [@pingflood](https://github.com/pingflood) 
 [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX | [@pingflood](https://github.com/pingflood) 
-[dosbox](https://drive.google.com/open?id=12COhKfowmqfaqcui55VZCVz-zY_vvFxQ) | DOSBox - MS-DOS Emulator | [@jbanes](https://github.com/jbanes) 
+[dosbox](https://github.com/retrofw/dosbox/releases/download/latest/dosbox.ipk) | DOSBox - MS-DOS Emulator | [@jbanes](https://github.com/jbanes) 
 [fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | FB Alpha - Arcade and Console - A320 version | [@pingflood](https://github.com/pingflood) 
 [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version | [@pingflood](https://github.com/pingflood)
 [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES | [@pingflood](https://github.com/pingflood) 
@@ -84,7 +84,7 @@ Download | Title | Dev / Port by
 [just4qix](https://github.com/retrofw/just4qix/releases/download/latest/just4qix.ipk) | Just4Qix | [@pingflood](https://github.com/retrofw/just4qix)
 [liero](https://github.com/pingflood/liero/releases/download/latest/liero.ipk) | Liero | [@pingflood](https://github.com/pingflood/liero) 
 [meritous](https://github.com/retrofw/meritous/releases/download/latest/meritous.ipk) | Meritous | [@pingflood](https://github.com/retrofw/meritous) 
-[mrdrillux](https://drive.google.com/open?id=12cG0jD5wysvdszIF4BcvuPbVe52e2viD) | Mr Drillux | [@jbanes](https://github.com/jbanes) 
+[mrdrillux](https://github.com/retrofw/mrdrillux/releases/download/latest/mrdrillux.ipk) | Mr Drillux | [@jbanes](https://github.com/jbanes) 
 [kof](https://github.com/retrofw/bennugd/releases/download/kof/kof.ipk) | KOF Flames Of Courage | [@steward-fu](https://github.com/retrofw/bennugd) 
 [opentyrian](https://github.com/retrofw/opentyrian/releases/download/latest/opentyrian.ipk) | Open Tyrian | [@gameblabla](https://github.com/gameblabla) 
 [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | Pang | [@pingflood](https://github.com/retrofw/pang) 
