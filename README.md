@@ -70,7 +70,7 @@ Download | System | Dev / Port by
 ### Ports
 Download | Title | Dev / Port by
 :------:|:------|:------:
-[abbaye](https://gameblabla.nl/files/ipk/rs97/abbaye_retrofw.ipk) | l'Abbaye des Morts | [@gameblabla](https://github.com/gameblabla) 
+[abbaye](https://github.com/retrofw/abbaye/releases/download/latest/abbaye.ipk) | l'Abbaye des Morts | [@gameblabla](https://github.com/gameblabla) 
 [apricots](https://github.com/retrofw/apricots/releases/download/latest/apricots.ipk) | Apricots | [@pingflood](https://github.com/retrofw/apricots) 
 [arkanoid](https://github.com/retrofw/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid | [@pingflood](https://github.com/retrofw/arkanoid) 
 [cannonball](https://github.com/retrofw/cannonball/releases/download/latest/cannonball.ipk) | The Enhanced OutRun Engine | [@gameblabla](https://github.com/gameblabla) 
@@ -89,7 +89,7 @@ Download | Title | Dev / Port by
 [opentyrian](https://github.com/retrofw/opentyrian/releases/download/latest/opentyrian.ipk) | Open Tyrian | [@gameblabla](https://github.com/gameblabla) 
 [pang](https://github.com/retrofw/pang/releases/download/latest/pang.ipk) | Pang | [@pingflood](https://github.com/retrofw/pang) 
 [profanation](https://github.com/retrofw/profanation/releases/download/latest/profanation.ipk) | Profanation Deluxe | [@pingflood](https://github.com/retrofw/profanation)
-[quake](https://gameblabla.nl/files/ipk/rs97/quake_retrofw.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
+[quake](https://github.com/retrofw/quake/releases/download/latest/quake.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
 [quake2](https://github.com/retrofw/quake2/releases/download/latest/quake2.ipk) | Quake 2 | [@gameblabla](https://github.com/gameblabla) 
 [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | Rockbot | [@pingflood](https://github.com/retrofw/rockbot) 
 [rott](https://github.com/scooterpsu/rott-rs97/releases/) | Rise Of The Triad | [@scooterpsu](https://github.com/scooterpsu/rott-rs97/releases/)
