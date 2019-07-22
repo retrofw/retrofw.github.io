@@ -73,6 +73,7 @@ Download | Title | Dev / Port by
 [abbaye](https://github.com/retrofw/abbaye/releases/download/latest/abbaye.ipk) | l'Abbaye des Morts | [@gameblabla](https://github.com/gameblabla) 
 [apricots](https://github.com/retrofw/apricots/releases/download/latest/apricots.ipk) | Apricots | [@pingflood](https://github.com/retrofw/apricots) 
 [arkanoid](https://github.com/retrofw/arkanoid/releases/download/latest/arkanoid.ipk) | Arkanoid | [@pingflood](https://github.com/retrofw/arkanoid) 
+[blockout2](https://github.com/pingflood/blockout2/releases/download/latest/blockout2.ipk) | BlockOut 2 | [@pingflood](https://github.com/pingflood/blockout2)
 [cannonball](https://github.com/retrofw/cannonball/releases/download/latest/cannonball.ipk) | The Enhanced OutRun Engine | [@gameblabla](https://github.com/gameblabla) 
 [cavestory](https://github.com/retrofw/cavestory/releases/download/latest/cavestory.ipk) | Cave Story | [@pingflood](https://github.com/retrofw/cavestory)
 [chocolate-doom](https://github.com/retrofw/chocolate-doom/releases/download/latest/chocolate-doom.ipk) | Chocolate Doom | [@gameblabla](https://github.com/gameblabla) 
