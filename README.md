@@ -48,7 +48,7 @@ Download | System | Dev / Port by
 [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version | [@pingflood](https://github.com/pingflood)
 [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES | [@pingflood](https://github.com/pingflood) 
 [gpsp](https://github.com/pingflood/gpsp/releases/download/latest/gpsp.ipk) | Game Boy Advance | [@pingflood](https://github.com/pingflood/gpsp) 
-[gambatte](https://drive.google.com/open?id=1V6XP6uAsMmrgbzOaRlHKAJaTRiOFLPJb) | Game Boy / Game Boy Color | [@hi-ban](https://github.com/hi-ban) 
+[gambatte](https://github.com/retrofw/gambatte/releases/download/latest/gambatte.ipk) | Game Boy / Game Boy Color | [@hi-ban](https://github.com/hi-ban) 
 [handy](https://github.com/retrofw/handy/releases/download/latest/handy.ipk) | Atari Lynx | [@gameblabla](https://github.com/gameblabla) 
 [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision | [@pingflood](https://github.com/pingflood/jzintv) 
 [mame4all](https://gitlab.com/bopbopbopbop/mame4all-rs97/tags/) | MAME / Arcade | [@bopbopbopbop](https://gitlab.com/bopbopbopbop/mame4all-rs97) 
