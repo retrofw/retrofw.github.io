@@ -93,6 +93,7 @@ Download | Title | Dev / Port by
 [profanation](https://github.com/retrofw/profanation/releases/download/latest/profanation.ipk) | Profanation Deluxe | [@pingflood](https://github.com/retrofw/profanation)
 [quake](https://github.com/retrofw/quake/releases/download/latest/quake.ipk) | Quake | [@gameblabla](https://github.com/gameblabla) 
 [quake2](https://github.com/retrofw/quake2/releases/download/latest/quake2.ipk) | Quake 2 | [@gameblabla](https://github.com/gameblabla) 
+[REminiscence](https://github.com/scooterpsu/REminiscence/releases/download/latest/reminiscence.ipk) | REminiscence | [@scooterpsu](https://github.com/scooterpsu) 
 [rockbot](https://github.com/retrofw/rockbot/releases/download/latest/rockbot.ipk) | Rockbot | [@pingflood](https://github.com/retrofw/rockbot) 
 [rott](https://github.com/scooterpsu/rott-rs97/releases/) | Rise Of The Triad | [@scooterpsu](https://github.com/scooterpsu/rott-rs97/releases/)
 [sorr](https://github.com/retrofw/bennugd/releases/download/sorr/sorr.ipk) | Streets of Rage Remake | [@steward-fu](https://github.com/retrofw/bennugd) 
