@@ -2,6 +2,9 @@
 
 The next list is all the changes registered on the **custom firmware** version updates.
 
+## 1.2.1 _(Nov 08, 2019)_
+- Updated installation scripts to better represent devices currently on the market
+
 ## 1.2 _(Mar 02, 2019)_
 - Fix boot lag due to bad behaved FAT32 partition in some uSD Cards
 
