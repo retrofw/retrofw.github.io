@@ -68,6 +68,7 @@ Download | System | Dev / Port by
 [temper](https://github.com/retrofw/temper/releases/download/latest/temper.ipk) | PC-Engine | [@gameblabla](https://github.com/gameblabla) 
 [uae4all](https://github.com/retrofw/uae4all/releases/download/latest/uae4all.ipk) | Amiga | [@pingflood](https://github.com/retrofw/uae4all) 
 [vice](https://github.com/retrofw/vice/releases/download/latest/vice.ipk) | Commodore 64 | [@gameblabla](https://github.com/gameblabla) 
+[potator](https://github.com/turtleletortue/potator/releases/download/1.1-0/potator.ipk) | Watara Supervision | [@turtleletortue](https://github.com/turtleletortue)
 
 ### Ports
 Download | Title | Dev / Port by
