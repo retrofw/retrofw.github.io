@@ -35,6 +35,7 @@ Download | Description | Dev / Port by
 [IO Tester](https://github.com/pingflood/iotester/releases/download/initial/iotester.ipk) | Input/output tester for the RetroGame | [@pingflood](https://github.com/pingflood)
 [PixMassage](https://github.com/pingflood/pixmassage/releases/download/initial/pixmassage.ipk) | Try to fix LCD stuck pixel | [@pingflood](https://github.com/pingflood)
 [GPmark](https://github.com/pingflood/gpmark/releases/download/latest/gpmark.ipk) | Graphics benchmark | [@pingflood](https://github.com/pingflood)
+[Midi Enabler](https://github.com/scooterpsu/midi-enabler/releases/download/latest/midi-enabler.ipk) | Midi Enabler | [@scooterpsu](https://github.com/scooterpsu/midi-enabler)
 
 ### Emulators
 Download | System | Dev / Port by
@@ -78,9 +79,11 @@ Download | Title | Dev / Port by
 [cannonball](https://github.com/retrofw/cannonball/releases/download/latest/cannonball.ipk) | The Enhanced OutRun Engine | [@gameblabla](https://github.com/gameblabla) 
 [cavestory](https://github.com/retrofw/cavestory/releases/download/latest/cavestory.ipk) | Cave Story | [@pingflood](https://github.com/retrofw/cavestory)
 [chocolate-doom](https://github.com/retrofw/chocolate-doom/releases/download/latest/chocolate-doom.ipk) | Chocolate Doom | [@gameblabla](https://github.com/gameblabla) 
+[czdoom](https://github.com/scooterpsu/czdoom/releases/download/latest/czdoom.ipk) | CZDoom | [@scooterpsu](https://github.com/scooterpsu/czdoom) 
 [eduke32](https://github.com/retrofw/eduke32/releases/download/latest/eduke32.ipk) | Eduke32 (Duke Nukem 3D) | [@pingflood](https://github.com/retrofw/eduke32) 
 [ganbare](https://github.com/retrofw/Ganbare-Natsuki-San/releases/download/latest/ganbare.ipk) | Ganbare-Natsukisan | [@gameblabla](https://github.com/gameblabla) 
 [hcl](https://github.com/retrofw/hydracastlelabyrinth/releases/download/latest/hcl.ipk) | Hydra Castle Labyrinth | [@pingflood](https://github.com/retrofw/hydracastlelabyrinth) 
+[hocoslamfy](https://github.com/scooterpsu/hocoslamfy/releases/download/latest/hocoslamfy.ipk) | Hocoslamfy | [@scooterpsu](https://github.com/scooterpsu/hocoslamfy) 
 [homingfever](https://github.com/retrofw/homingfever/releases/download/latest/homingfever.ipk) | Homing Fever | [@pingflood](https://github.com/retrofw/retrofw/homingfever) 
 [jinyoung](https://github.com/guangmingwan/rs97-jy/releases) | Jin Yong Legend (Chinese game) | [@guangmingwan](https://github.com/guangmingwan/rs97-jy) 
 [just4qix](https://github.com/retrofw/just4qix/releases/download/latest/just4qix.ipk) | Just4Qix | [@pingflood](https://github.com/retrofw/just4qix)
