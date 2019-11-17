@@ -9,9 +9,15 @@
 
 # Setup & Info
 
-- Check the installation guide in our wiki [here](https://github.com/retrofw/firmware/wiki/Install-Firmware)
-- Check the version details history in our changelog [here](https://github.com/retrofw/firmware/blob/master/CHANGELOG.md)
-- Join our **Discord** chat server for more support [here](https://discord.gg/CX67MCH)
+- Check the [installation guide](https://github.com/retrofw/firmware/wiki/Install-Firmware) in our wiki
+- Check the version details history in our [changelog](https://github.com/retrofw/firmware/blob/master/CHANGELOG.md)
+- Join our [**Discord** chat server](https://discord.gg/CX67MCH) for more support
+
+# Development
+
+- Learn how to develop and port programs with our [developer tutorial](https://docs.google.com/document/d/19kJXO3EZ8XCoeporuUUgV_S93AaPbSagza3sAgBILu8/edit?usp=sharing)
+- Collaborate with others by looking up and [claiming software to port](https://docs.google.com/spreadsheets/d/1CfDmrbuRfihLl-emOtaS3RMg6t_em3EQQkQupw7vCRw/edit?usp=sharing)
+
 
 # Resources
 
