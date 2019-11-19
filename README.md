@@ -55,7 +55,7 @@ Download | System | Dev / Port by
 [fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | FB Alpha - Arcade and Console - A320 version | [@pingflood](https://github.com/pingflood) 
 [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version | [@pingflood](https://github.com/pingflood)
 [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES | [@pingflood](https://github.com/pingflood) 
-[gngeo](https://github.com/jbanes/gngeo/releases/tag/20191116) | NeoGeo | [@jbanes](https://github.com/jbanes/gngeo) 
+[gngeo](https://github.com/jbanes/gngeo/releases/latest) | NeoGeo | [@jbanes](https://github.com/jbanes/gngeo) 
 [gpsp](https://github.com/pingflood/gpsp/releases/download/latest/gpsp.ipk) | Game Boy Advance | [@pingflood](https://github.com/pingflood/gpsp) 
 [gambatte](https://github.com/retrofw/gambatte/releases/download/latest/gambatte.ipk) | Game Boy / Game Boy Color | [@hi-ban](https://github.com/hi-ban) 
 [handy](https://github.com/retrofw/handy/releases/download/latest/handy.ipk) | Atari Lynx | [@gameblabla](https://github.com/gameblabla) 
