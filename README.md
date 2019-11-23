@@ -42,6 +42,7 @@ Download | Description | Dev / Port by
 [PixMassage](https://github.com/pingflood/pixmassage/releases/download/initial/pixmassage.ipk) | Try to fix LCD stuck pixel | [@pingflood](https://github.com/pingflood)
 [GPmark](https://github.com/pingflood/gpmark/releases/download/latest/gpmark.ipk) | Graphics benchmark | [@pingflood](https://github.com/pingflood)
 [Midi Enabler](https://github.com/scooterpsu/midi-enabler/releases/download/latest/midi-enabler.ipk) | Midi Enabler | [@scooterpsu](https://github.com/scooterpsu/midi-enabler)
+[Terminal](https://ozgur.kazancci.com/jutleys/10-RG-300/IPK%20Files/apps/st-sdl-terminal.ipk) | Command-line terminal application | |
 
 ### Emulators
 Download | System | Dev / Port by
