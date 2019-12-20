@@ -20,14 +20,14 @@ The next list is all the changes registered on the **custom firmware** version u
 - In-game device suspend by holding Power for 3 seconds
 
 **Boot Combos**
-Hold (Power || Select) + (A || B): Recovery mode
-Hold (Power || Select) + Y: Developer mode <- previously was L
-Hold R on boot: Boot external SD card
+- Hold (Power || Select) + (A || B): Recovery mode
+- Hold (Power || Select) + Y: Developer mode <- previously was L
+- Hold R on boot: Boot external SD card
 
 **System combos**
-Select + Power: Kill init pid
-Hold power ~300ms: Enter suspend mode
-Hold power >4000ms: Power of the device
+- Select + Power: Kill init pid
+- Hold power ~300ms: Enter suspend mode
+- Hold power >4000ms: Power of the device
 
 ## 1.2.1 _(Nov 08, 2019)_
 - Updated installation scripts to better represent devices currently on the market
