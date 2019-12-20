@@ -4,13 +4,14 @@
 
 ![retrofw](https://user-images.githubusercontent.com/348516/58355698-a3f68580-7e4b-11e9-9dff-ea1f795ed85c.png)
 
-[![Download](https://img.shields.io/github/release/retrofw/firmware.svg?label=Download%20RetroFW&color=brightgreen)](https://github.com/retrofw/firmware/releases)
+[![Download](https://img.shields.io/github/release/retrofw/firmware.svg?label=Download%20RetroFW&color=brightblue)](https://github.com/retrofw/firmware/releases)
 [![Stars](https://img.shields.io/github/stars/retrofw/firmware.svg?label=Project%20Stars)](https://github.com/retrofw/firmware/stargazers)
 
 # Setup & Info
 
 - Check the [installation guide](https://github.com/retrofw/firmware/wiki/Install-Firmware) in our wiki
 - Check the version details history in our [changelog](https://github.com/retrofw/firmware/blob/master/CHANGELOG.md)
+- Grab a [Starter Pack](https://github.com/retrofw/firmware/releases/tag/StarterPack2.0) to start playing games 
 - Join our [**Discord** chat server](https://discord.gg/CX67MCH) for more support
 
 # Development
