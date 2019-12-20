@@ -1,6 +1,6 @@
 # RetroFW
 
-> _RetroFW_ is the currently supported custom firmware for the Retro Game and LDK devices. It allows you to play a wide variety of consoles/computers thanks to numerous emulators available to it as well some ports of games.
+> _RetroFW_ is the currently supported firmware for the RS-97 (Retro Game), RG-300, LDK, and original Retro Arcade Mini devices. It allows you to play a wide variety of consoles and computers thanks to numerous emulators available to it as well as a number of popular videogame ports.
 
 ![retrofw](https://user-images.githubusercontent.com/348516/58355698-a3f68580-7e4b-11e9-9dff-ea1f795ed85c.png)
 
@@ -21,7 +21,7 @@
 
 # Resources
 
-The next list is all **IPK** _(Install Package)_ available for _RetroFW_ usage.
+The following list is a catalog of all **OPK** and **IPK** _(Install Packages)_ available for the _RetroFW_ operating system.
 
 ### Apps
 Download | Description | Dev / Port by
