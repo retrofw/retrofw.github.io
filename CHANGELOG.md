@@ -9,6 +9,7 @@ The next list is all the changes registered on the **custom firmware** version u
 - OPK files can be stored on an external SD card
 - Auto-scan for OPK files on the external SD card
 - exFAT filesystem is now supported on external SD cards
+- OPKs and IPKs can be uninstalled from the main menu
 - TV out (limits CPU to 528MHz when in use)
 - Scale mode allows you to stretch your games to Aspect, Original, or Stretch
 - Scale mode on the Retro Mini Arcade (RS-07) additionally supports 4:3 mode
