@@ -122,3 +122,4 @@ Download | Title | Dev / Port by
 [tileworld](https://github.com/retrofw/tileworld/releases/download/latest/tileworld.ipk) | Tile World | [@pingflood](https://github.com/retrofw/tileworld) 
 [wolf3d](https://github.com/scooterpsu/wolf3d/releases) | Wolfenstein 3D and Spear of Destiny | [@scooterpsu](https://github.com/scooterpsu/wolf3d) 
 [zelda_roth](https://github.com/retrofw/zelda_roth/releases/download/latest/zelda_roth.ipk) | The Legend of Zelda - Return of the Hylian | [@pingflood](https://github.com/retrofw/zelda_roth) 
+[xrick](https://github.com/scooterpsu/xrick/releases/download/latest/xrick.opk) | xRick (Rick Dangerous) | [@scooterpsu](https://github.com/scooterpsu/xrick) 
