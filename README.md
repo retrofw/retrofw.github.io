@@ -25,6 +25,7 @@
 The following list is a catalog of all **OPK** and **IPK** _(Install Packages)_ available for the _RetroFW_ operating system.
 
 ### Apps
+
 Download | Description | Dev / Port by
 :------:|:------|:------:
 [GMenuNX](https://github.com/pingflood/gmenunx/releases/download/latest/gmenunx.ipk) | SDL frontend and launcher | [@pingflood](https://github.com/pingflood)
@@ -36,6 +37,7 @@ Download | Description | Dev / Port by
 [o2xiv](https://github.com/scooterpsu/o2xiv/releases/download/latest/o2xiv.ipk) | o2xiv -  Image Viewer | [@scooterpsu](https://github.com/scooterpsu) 
 
 ### Tools
+
 Download | Description | Dev / Port by
 :------:|:------|:------:
 [BattLog](https://github.com/pingflood/battlog/releases/download/initial/battlog.ipk) | Log battery discharge profile | [@pingflood](https://github.com/pingflood)
@@ -46,6 +48,7 @@ Download | Description | Dev / Port by
 [Terminal](https://ozgur.kazancci.com/jutleys/10-RG-300/IPK%20Files/apps/st-sdl-terminal.ipk) | Command-line terminal application | |
 
 ### Emulators
+
 Download | System | Dev / Port by
 :------:|:------|:------:
 [colem](https://github.com/pingflood/colem/releases/download/latest/colem.ipk) | ColecoVision | [@pingflood](https://github.com/pingflood) 
@@ -80,6 +83,7 @@ Download | System | Dev / Port by
 [potator](https://github.com/turtleletortue/potator/releases/download/1.1-0/potator.ipk) | Watara Supervision | [@turtleletortue](https://github.com/turtleletortue)
 
 ### Ports
+
 Download | Title | Dev / Port by
 :------:|:------|:------:
 [abbaye](https://github.com/retrofw/abbaye/releases/download/latest/abbaye.ipk) | l'Abbaye des Morts | [@gameblabla](https://github.com/gameblabla) 
