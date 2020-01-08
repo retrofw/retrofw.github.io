@@ -68,7 +68,7 @@ Download | System | Dev / Port by
 [fceux](https://github.com/pingflood/fceux/releases/latest/download/fceux.opk) | NES | [@pingflood](https://github.com/pingflood) 
 [gngeo](https://github.com/jbanes/gngeo/releases/latest) | NeoGeo | [@jbanes](https://github.com/jbanes/gngeo) 
 [gpsp](https://github.com/pingflood/gpsp/releases/download/latest/gpsp.ipk) | Game Boy Advance | [@pingflood](https://github.com/pingflood/gpsp) 
-[gambatte](https://github.com/retrofw/gambatte/releases/download/latest/gambatte.ipk) | Game Boy / Game Boy Color | [@hi-ban](https://github.com/hi-ban) 
+[gambatte](https://github.com/bardeci/dot-matrix-simulator/releases/latest) | Game Boy / Game Boy Color | [@hi-ban](https://github.com/bardeci/dot-matrix-simulator) 
 [handy](https://github.com/retrofw/handy/releases/download/latest/handy.ipk) | Atari Lynx | [@gameblabla](https://github.com/gameblabla) 
 [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision | [@pingflood](https://github.com/pingflood/jzintv) 
 [mame4all](https://gitlab.com/bopbopbopbop/mame4all-rs97/tags/) | MAME / Arcade | [@bopbopbopbop](https://gitlab.com/bopbopbopbop/mame4all-rs97) 
