@@ -65,7 +65,7 @@ Download | System | Dev / Port by
 [dosbox](https://github.com/retrofw/dosbox/releases/download/latest/dosbox.ipk) | DOSBox - MS-DOS Emulator | [@jbanes](https://github.com/jbanes) 
 [fba-a320](https://github.com/pingflood/fba-a320/releases/latest/download/fba-a320.opk) | FB Alpha - Arcade and Console - A320 version | [@pingflood](https://github.com/pingflood) 
 [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version | [@pingflood](https://github.com/pingflood)
-[fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES | [@pingflood](https://github.com/pingflood) 
+[fceux](https://github.com/pingflood/fceux/releases/latest/download/fceux.opk) | NES | [@pingflood](https://github.com/pingflood) 
 [gngeo](https://github.com/jbanes/gngeo/releases/latest) | NeoGeo | [@jbanes](https://github.com/jbanes/gngeo) 
 [gpsp](https://github.com/pingflood/gpsp/releases/download/latest/gpsp.ipk) | Game Boy Advance | [@pingflood](https://github.com/pingflood/gpsp) 
 [gambatte](https://github.com/retrofw/gambatte/releases/download/latest/gambatte.ipk) | Game Boy / Game Boy Color | [@hi-ban](https://github.com/hi-ban) 
