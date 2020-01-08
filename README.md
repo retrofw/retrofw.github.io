@@ -63,7 +63,7 @@ Download | System | Dev / Port by
 [dingux-cap32](https://github.com/pingflood/dingux-cap32/releases/download/latest/dingux-cap32.ipk) | Amstrad CPC | [@pingflood](https://github.com/pingflood) 
 [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX | [@pingflood](https://github.com/pingflood) 
 [dosbox](https://github.com/retrofw/dosbox/releases/download/latest/dosbox.ipk) | DOSBox - MS-DOS Emulator | [@jbanes](https://github.com/jbanes) 
-[fba-a320](https://github.com/pingflood/fba-a320/releases/download/latest/fba-a320.ipk) | FB Alpha - Arcade and Console - A320 version | [@pingflood](https://github.com/pingflood) 
+[fba-a320](https://github.com/pingflood/fba-a320/releases/latest/download/fba-a320.opk) | FB Alpha - Arcade and Console - A320 version | [@pingflood](https://github.com/pingflood) 
 [fbasdl](https://github.com/pingflood/fba-sdl/releases/download/latest/fbasdl.ipk) | FB Alpha - Arcade and Console - GCW0 version | [@pingflood](https://github.com/pingflood)
 [fceux](https://github.com/pingflood/FCEUX/releases/download/latest/fceux.ipk) | NES | [@pingflood](https://github.com/pingflood) 
 [gngeo](https://github.com/jbanes/gngeo/releases/latest) | NeoGeo | [@jbanes](https://github.com/jbanes/gngeo) 
