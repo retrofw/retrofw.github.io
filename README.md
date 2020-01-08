@@ -80,6 +80,7 @@ Download | System | Dev / Port by
 [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | PokéMini | [@pingflood](https://github.com/pingflood/pokemini) 
 [prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | Atari 7800 | [@pingflood](https://github.com/pingflood/prosystem-od) 
 [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket | [@pingflood](https://github.com/pingflood/race-od) 
+[regba](https://github.com/pingflood/regba/releases/latest/download/regba.opk) | Game Boy Advance | [@pingflood](https://github.com/pingflood/regba) 
 [scummvm](https://github.com/jbanes/scummvm/releases/tag/2.1.0-RetroFW-RC5) | ScummVM | [@jbanes](https://github.com/jbanes/scummvm) 
 [sms_sdl](https://github.com/retrofw/sms_sdl/releases/download/latest/sms_sdl.ipk) | Master System / Game Gear | [@gameblabla](https://github.com/gameblabla) 
 [speccy](https://github.com/pingflood/speccy/releases/download/latest/speccy.ipk) | ZX Spectrum | [@pingflood](https://github.com/pingflood/speccy) 
