@@ -74,7 +74,7 @@ Download | System | Dev / Port by
 [mame4all](https://gitlab.com/bopbopbopbop/mame4all-rs97/tags/) | MAME / Arcade | [@bopbopbopbop](https://gitlab.com/bopbopbopbop/mame4all-rs97) 
 [openbor](https://github.com/retromsx/retrofw_ipks/releases/latest/download/openbor.ipk) | Open BOR | [@retromsx](https://github.com/retromsx) 
 [oswan](https://github.com/retrofw/oswan/releases/download/latest/oswan.ipk) | WonderSwan | [@gameblabla](https://github.com/gameblabla) 
-[pcsx4all](https://github.com/retrofw/pcsx4all/releases/download/latest/pcsx4all.ipk) | Playstation (PSOne) | [@gameblabla](https://github.com/gameblabla) 
+[pcsx4all](https://github.com/pingflood/pcsx4all/releases/latest/download/pcsx4all.opk) | Playstation (PSOne) | [@pingflood](https://github.com/pingflood/) 
 [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear | [@pingflood](https://github.com/pingflood/picodriv) 
 [pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | Super NES | [@pingflood](https://github.com/pingflood/PocketSNES) 
 [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | PokéMini | [@pingflood](https://github.com/pingflood/pokemini) 
