@@ -72,7 +72,7 @@ Download | System | Dev / Port by
 [handy](https://github.com/retrofw/handy/releases/download/latest/handy.ipk) | Atari Lynx | [@gameblabla](https://github.com/gameblabla) 
 [jzintv](https://github.com/pingflood/jzintv/releases/download/latest/jzintv.ipk) | Intellivision | [@pingflood](https://github.com/pingflood/jzintv) 
 [mame4all](https://gitlab.com/bopbopbopbop/mame4all-rs97/tags/) | MAME / Arcade | [@bopbopbopbop](https://gitlab.com/bopbopbopbop/mame4all-rs97) 
-[openbor](https://github.com/retromsx/retrofw_ipks/releases/download/3.0_3434/openbor.ipk) | Open BOR | [@retromsx](https://github.com/retromsx) 
+[openbor](https://github.com/retromsx/retrofw_ipks/releases/latest/download/openbor.ipk) | Open BOR | [@retromsx](https://github.com/retromsx) 
 [oswan](https://github.com/retrofw/oswan/releases/download/latest/oswan.ipk) | WonderSwan | [@gameblabla](https://github.com/gameblabla) 
 [pcsx4all](https://github.com/retrofw/pcsx4all/releases/download/latest/pcsx4all.ipk) | Playstation (PSOne) | [@gameblabla](https://github.com/gameblabla) 
 [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear | [@pingflood](https://github.com/pingflood/picodriv) 
