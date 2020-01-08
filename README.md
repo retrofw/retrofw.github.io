@@ -57,8 +57,8 @@ Download | Description | Dev / Port by
 
 Download | System | Dev / Port by
 :------:|:------|:------:
-[colem](https://github.com/pingflood/colem/releases/download/latest/colem.ipk) | ColecoVision | [@pingflood](https://github.com/pingflood) 
-[dingux-2600](https://github.com/pingflood/dingux-2600/releases/download/latest/dingux-2600.ipk) | Atari 2600 | [@pingflood](https://github.com/pingflood) 
+[colem](https://github.com/pingflood/colem/releases/latest/download/colem.opk) | ColecoVision | [@pingflood](https://github.com/pingflood) 
+[dingux-2600](https://github.com/pingflood/dingux-2600/releases/latest/download/dingux-2600.opk) | Atari 2600 | [@pingflood](https://github.com/pingflood) 
 [dingux-atari](https://github.com/pingflood/dingux-atari/releases/download/latest/dingux-atari.ipk) | Atari 800 | [@pingflood](https://github.com/pingflood) 
 [dingux-cap32](https://github.com/pingflood/dingux-cap32/releases/download/latest/dingux-cap32.ipk) | Amstrad CPC | [@pingflood](https://github.com/pingflood) 
 [dingux-msx](https://github.com/pingflood/dingux-msx/releases/download/latest/dingux-msx.ipk) | MSX | [@pingflood](https://github.com/pingflood) 
