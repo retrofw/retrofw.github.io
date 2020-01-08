@@ -46,7 +46,7 @@ Download | Description | Dev / Port by
 
 Download | Description | Dev / Port by
 :------:|:------|:------:
-[BattLog](https://github.com/pingflood/battlog/releases/download/initial/battlog.ipk) | Log battery discharge profile | [@pingflood](https://github.com/pingflood)
+[BattLog](https://github.com/pingflood/battlog/releases/latest/download/battlog.opk) | Log battery discharge profile | [@pingflood](https://github.com/pingflood)
 [IO Tester](https://github.com/pingflood/iotester/releases/download/initial/iotester.ipk) | Input/output tester for the RetroGame | [@pingflood](https://github.com/pingflood)
 [PixMassage](https://github.com/pingflood/pixmassage/releases/download/initial/pixmassage.ipk) | Try to fix LCD stuck pixel | [@pingflood](https://github.com/pingflood)
 [GPmark](https://github.com/pingflood/gpmark/releases/download/latest/gpmark.ipk) | Graphics benchmark | [@pingflood](https://github.com/pingflood)
