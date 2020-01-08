@@ -76,7 +76,7 @@ Download | System | Dev / Port by
 [oswan](https://github.com/retrofw/oswan/releases/download/latest/oswan.ipk) | WonderSwan | [@gameblabla](https://github.com/gameblabla) 
 [pcsx4all](https://github.com/pingflood/pcsx4all/releases/latest/download/pcsx4all.opk) | Playstation (PSOne) | [@pingflood](https://github.com/pingflood/) 
 [picodrive](https://github.com/pingflood/picodrive/releases/download/latest/picodrive.ipk) | Mega Drive / Sega CD / Master System / Game Gear | [@pingflood](https://github.com/pingflood/picodriv) 
-[pocketsnes](https://github.com/pingflood/PocketSNES/releases/download/latest/pocketsnes.ipk) | Super NES | [@pingflood](https://github.com/pingflood/PocketSNES) 
+[pocketsnes](https://github.com/pingflood/pocketsnes/releases/latest/download/pocketsnes.opk) | Super NES | [@pingflood](https://github.com/pingflood/PocketSNES) 
 [pokemini](https://github.com/pingflood/pokemini/releases/download/latest/pokemini.ipk) | PokéMini | [@pingflood](https://github.com/pingflood/pokemini) 
 [prosystem-od](https://github.com/pingflood/prosystem-od/releases/download/latest/prosystem-od.ipk) | Atari 7800 | [@pingflood](https://github.com/pingflood/prosystem-od) 
 [race-od](https://github.com/pingflood/race-od/releases/download/latest/race-od.ipk) | Neo Geo Pocket | [@pingflood](https://github.com/pingflood/race-od) 
