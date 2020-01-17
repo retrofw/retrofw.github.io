@@ -5,13 +5,13 @@ This little patch rollbacks a change we made to VFAT mounting options (from "low
 
 [patch-2.0-001-vfat-lower.ipk](https://github.com/retrofw.github.io/releases/download/2.0/patch-2.0-001-vfat-lower.ipk)
 
-### [2019-12-20: RetroFW v2.0 is out!](https://github.com/retrofw.github.io/releases/latest)
+### [2019-12-20: RetroFW v2.0 is out!](https://github.com/retrofw/retrofw.github.io/releases/tag/2.0)
 
 After many months of development and testing, it is my great pleasure to officially announce the release of RetroFW 2.0! 
 
 This release brings more performance, more devices, more features, more ports, and more fun! With the addition of OPK package support, you can now bring your emulator installations from device to device. Just like your ROMs!
 
-Check the changelog and download the latest revision in the [Releases Page](https://github.com/retrofw.github.io/releases/latest).
+Check the changelog and download the latest revision in the [Releases Page](https://github.com/retrofw/retrofw.github.io/releases).
 
 # Setup & Info
 
