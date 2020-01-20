@@ -1,9 +1,9 @@
 # Announcements & Updates
 
-### [2019-12-27: RetroFW 2.0 patch 001 (vfat-lower)](https://github.com/retrofw.github.io/releases/download/2.0/patch-2.0-001-vfat-lower.ipk)
+### [2019-12-27: RetroFW 2.0 patch 001 (vfat-lower)](https://github.com/retrofw/retrofw.github.io/releases/download/2.0/patch-2.0-001-vfat-lower.ipk)
 This little patch rollbacks a change we made to VFAT mounting options (from "lower" to "mixed"). We're rolling it back because, in combination with a Windows copy bug, it caused FBA and NeoGeo ROMS not to be recognized by emulators when put in internal SD. Just install it from Explorer like a normal IPK.
 
-[patch-2.0-001-vfat-lower.ipk](https://github.com/retrofw.github.io/releases/download/2.0/patch-2.0-001-vfat-lower.ipk)
+[patch-2.0-001-vfat-lower.ipk](https://github.com/retrofw/retrofw.github.io/releases/download/2.0/patch-2.0-001-vfat-lower.ipk)
 
 ### [2019-12-20: RetroFW v2.0 is out!](https://github.com/retrofw/retrofw.github.io/releases/tag/2.0)
 
@@ -15,9 +15,9 @@ Check the changelog and download the latest revision in the [Releases Page](http
 
 # Setup & Info
 
-- Check the [installation guide](https://github.com/retrofw.github.io/wiki/Install-Firmware) in our wiki
+- Check the [installation guide](https://github.com/retrofw/retrofw.github.io/wiki/Install-Firmware) in our wiki
 - Check the version details history in our [changelog](https://retrofw.github.io/CHANGELOG)
-- Grab a [Starter Pack](https://github.com/retrofw.github.io/releases/tag/StarterPack2.0) to start playing games 
+- Grab a [Starter Pack](https://github.com/retrofw/retrofw.github.io/releases/tag/StarterPack2.0) to start playing games 
 
 # Development
 
