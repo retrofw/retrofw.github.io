@@ -19,6 +19,8 @@ The next list is all the changes registered on the **custom firmware** version u
 - Force kill current application (SELECT+POWER)
 - Updated default theme based on Fontes theme
 - In-game device suspend by holding Power for 3 seconds
+- Press select in the file chooser to access a shortcuts menu
+- New Favorites section provides fast links to your favorite games (use select menu in file chooser)
 
 **Boot Combos**
 - Hold (Power or Select) + (A or B): Recovery mode
