@@ -1,5 +1,13 @@
 # Announcements & Updates
 
+### [2020-02-14: RetroFW v2.1 is out!](https://github.com/retrofw/retrofw.github.io/releases/tag/v2.1)
+
+RetroFW v2.1 is out with a new batch of bug fixes. It brings more stability, improvements and also features for the developers.
+
+Check the changelog and download the latest revision in the [Releases Page](https://github.com/retrofw/retrofw.github.io/releases).
+
+<details><summary>Old releases</summary>
+
 ### [2019-12-27: RetroFW 2.0 patch 001 (vfat-lower)](https://github.com/retrofw/retrofw.github.io/releases/download/2.0/patch-2.0-001-vfat-lower.ipk)
 This little patch rollbacks a change we made to VFAT mounting options (from "lower" to "mixed"). We're rolling it back because, in combination with a Windows copy bug, it caused FBA and NeoGeo ROMS not to be recognized by emulators when put in internal SD. Just install it from Explorer like a normal IPK.
 
@@ -12,7 +20,8 @@ After many months of development and testing, it is my great pleasure to officia
 This release brings more performance, more devices, more features, more ports, and more fun! With the addition of OPK package support, you can now bring your emulator installations from device to device. Just like your ROMs!
 
 Check the changelog and download the latest revision in the [Releases Page](https://github.com/retrofw/retrofw.github.io/releases).
-
+</details>
+  
 # Setup & Info
 
 - Check the [installation guide](https://github.com/retrofw/retrofw.github.io/wiki/Install-Firmware) in our wiki
