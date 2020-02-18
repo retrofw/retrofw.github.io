@@ -4,7 +4,9 @@
 
 RetroFW v2.1 is out with a new batch of bug fixes. It brings more stability, improvements and also features for the developers. Just in time to show your valentine how much you love them!
 
-This release brings all the performance, devices, features, ports, and fun that you remember from 2.0! 2.1 adds important fixes like the vfat configuration, improved low-battery notification, and the ability to scan ExFAT formatted cards for OPK releases. It also brings us cool new features like the fastest file browsing ever, libopk and opkrun tools, default CPU speed of 600MHz, faster debugging loops with better log file management, and too many small tweaks to mention!
+This release brings all the performance, devices, features, ports, and fun that you remember from 2.0! 2.1 adds important fixes like the vfat configuration, improved low-battery notification, and the ability to scan ExFAT formatted cards for OPK releases. It also brings us cool new features like the fastest file browsing ever, ~~libopk and opkrun tools~~, default CPU speed of 600MHz, faster debugging loops with better log file management, and too many small tweaks to mention!
+
+(Fix to come soon for libopk and opkrun!)
 
 Check the changelog and download the latest revision in the [Releases Page](https://github.com/retrofw/retrofw.github.io/releases).
 
