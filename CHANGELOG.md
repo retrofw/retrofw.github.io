@@ -2,6 +2,34 @@
 
 The next list is all the changes registered on the **custom firmware** version updates.
 
+## 2.1 _(Feb 14, 2020)_
+
+Kernel:
+- Fine tuned low battery indicator level to 3500 mv (3400 mv for IPS panels)
+- Fixed issue with IPU and V-Sync that was causing tearing in the first lines drawn in some screens
+- Using Select+Power to kill the current app no longer unmounts the external SD Card
+
+Root FS:
+- Fixed SD Card mounting flags. VFAT partitions are using ```shortname=lower``` flag and will force MS-DOS compatible filenames to lowercase
+- Updated Recovery Mode GUI and keybindings, fixing an issue where sometimes it would close the app right after entering it
+- Added ```/etc/os-release``` to identify the RetroFW version
+- ~~Added ```libopk``` and ```opkrun```~~ (OPKs are mounted in ```/mnt``` by default)
+- Added ```scandir``` Python module to distribution
+
+Userspace (GMenuNX):
+- Improved skin assets scaling and loading logic
+- Added back the power timeout option
+- Faster file browsing
+- Fixed OPK parameters parsing that were preventing to save Selector Browser options
+- Links has CPU clock set to 600 MHz by default
+- Fixed an issue with suspend timer on boot
+- Output Log is shown when re-entering GMenuNX
+- Improved input handling
+- Link Selector options are now OFF / AUTO / Manual, not being linked to Remember Selection anymore.
+- Merged "Install Package" and "Add Link" options. If you browse to an IPK or OPK it will perform the install instead of adding a link.
+- Fixed issues with input being registered twice in some devices
+- L&R buttons now behave consistently in the brightness adjust menu
+
 ## 2.0 _(Dec 20, 2019)_
 - Added support for Retro Arcade Mini (RS-07)
 - Added support for IPS displays
