@@ -1,5 +1,18 @@
 # Announcements & Updates
 
+### [2020-05-06: RetroFW v2.2 is out!](https://github.com/retrofw/retrofw.github.io/releases/tag/v2.2)
+
+RetroFW v2.2 is out. This time it's mostly bugfixes and some Q.O.L. changes in the system recovery. Now it will create the needed partition layout during the first boot. This is faster and more reliable than partition expander used in previous versions.
+
+Also, libopk and opkrun are finally included! Now you can enjoy other amazing GUIs such as pyMenu and SimpleMenu!
+
+Download the latest revision in the [Releases Page](https://github.com/retrofw/retrofw.github.io/releases).
+
+
+
+<details><summary>Old releases</summary>
+
+
 ### [2020-02-14: RetroFW v2.1 is out!](https://github.com/retrofw/retrofw.github.io/releases/tag/v2.1)
 
 RetroFW v2.1 is out with a new batch of bug fixes. It brings more stability, improvements and also features for the developers. Just in time to show your valentine how much you love them!
