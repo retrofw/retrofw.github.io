@@ -52,6 +52,8 @@ Check the changelog and download the latest revision in the [Releases Page](http
 - Learn how to develop and port programs with our [developer tutorial](https://github.com/retrofw/retrofw.github.io/wiki/Configuring-a-Toolchain)
 - Collaborate with others by looking up and [claiming software to port](https://docs.google.com/spreadsheets/d/1CfDmrbuRfihLl-emOtaS3RMg6t_em3EQQkQupw7vCRw/edit?usp=sharing)
 - Check out the [Buildroot](https://github.com/retrofw/buildroot) repository to build your own toolchain
+- Check out the [Kernel](https://github.com/retrofw/kernel) and [U-Boot](https://github.com/retrofw/uboot) repositories to customize the system
+
 
 # Resources
 
