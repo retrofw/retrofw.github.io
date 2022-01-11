@@ -1,5 +1,13 @@
 # Announcements & Updates
 
+
+### [2022-01-11: RetroFW v2.3 Release Candidate 2 is out!](https://github.com/retrofw/retrofw.github.io/releases/tag/2.3_rc2)
+
+- This update has some measurable performance improvement compared to previous version.
+- It uses the latest 2021 November buildroot with the most up to date software (excluding kernel) Link to [2.3 buildroot](https://github.com/Poligraf/buildroot/tree/2021.11.x) for developers.
+- Various small tweaks to improve quality of life. 
+
+
 ### [2020-05-06: RetroFW v2.2 is out!](https://github.com/retrofw/retrofw.github.io/releases/tag/v2.2)
 
 RetroFW v2.2 is out. This time it's mostly bugfixes and some Q.O.L. changes in the system recovery. Now it will create the needed partition layout during the first boot. This is faster and more reliable than partition expander used in previous versions.
